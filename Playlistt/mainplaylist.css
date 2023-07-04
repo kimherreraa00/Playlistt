@@ -1,0 +1,11 @@
+#pruebaplaylists, table {
+  width:800px;
+  padding:15px;
+  height: 20px;
+  font-size: 50px;
+  border: 1;
+}
+input {
+   width: 210px;
+   height: 80px;
+   }
